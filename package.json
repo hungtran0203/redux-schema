@@ -1,6 +1,6 @@
 {
   "name": "redux-schema-reducer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Store schema for redux",
   "main": "index.js",
   "scripts": {
