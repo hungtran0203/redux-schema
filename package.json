@@ -1,0 +1,30 @@
+{
+  "name": "redux-schema-reducer",
+  "version": "1.0.2",
+  "description": "Store schema for redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungtran0203/redux-schema.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Hung Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungtran0203/redux-schema/issues"
+  },
+  "homepage": "https://github.com/hungtran0203/redux-schema#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.7.4",
+    "lodash": "^4.11.1"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.7.4",
+    "lodash": "^4.11.1"
+  }
+}
