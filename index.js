@@ -206,7 +206,7 @@ const  stateSelector = function(state, stateId, contrainst){
 	} 
 }
 
-export {
+export default {
 	selectStateFromId, 
 	createReducer,
 	stateMapper,
